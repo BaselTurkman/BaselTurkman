@@ -10,8 +10,8 @@ I'm Basel Turkman
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaselTurkman&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://leetcard.jacoblin.cool/BaselTurkman?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaselTurkman&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 </p>
 
 ## Contact Me
