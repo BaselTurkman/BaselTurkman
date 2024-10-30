@@ -6,14 +6,13 @@ I'm Basel Turkman
 ### About Me
 - 🌱 Currently learning Front-End Development with Udacity.
 - 🔍 Interested in Web Development and AI.
-- 📫 Reach me at [Your Email].
 
+## Stats
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaselTurkman&show_icons=true&theme=radical)
-
-## LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/BaselTurkman?theme=dark&font=Karma&ext=contest)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BaselTurkman&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://leetcard.jacoblin.cool/BaselTurkman?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="48%">
+</p>
 
 ## Contact Me
 - 📫 Reach me at Basel.Turkman123@gmail.com
