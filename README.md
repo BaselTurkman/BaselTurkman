@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Static Badge](https://img.shields.io/badge/BaselTurkman)
+![Profile views](https://komarev.com/ghpvc/?username=BaselTurkman&color=blue)
 
 <!--
 **BaselTurkman/BaselTurkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
