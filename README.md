@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Static Badge](https://img.shields.io/badge/BaselTurkman)
 
 <!--
 **BaselTurkman/BaselTurkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
