@@ -22,6 +22,9 @@ I'm Basel Turkman
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### most-used languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaselTurkman&layout=compact)
+
 
 ## Stats
 
