@@ -2,10 +2,13 @@
 I'm Basel Turkman
 
 ![Profile views](https://komarev.com/ghpvc/?username=BaselTurkman&color=blue)
+![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)  
+
 
 ### About Me
-- 🌱 Currently learning Front-End Development with Udacity.
-- 🔍 Interested in Web Development and AI.
+- 🎓 **Graduated from the Front-End Web Developer Nanodegree** (Udacity, Spark, PLWG)  
+- 💻 **Front-End Intern at Foothill Technology Solutions, LLC.**,
+- 🤖 Passionate about **AI models, web applications, and problem-solving**  
 
 ## Languages & Tools
 
@@ -21,6 +24,8 @@ I'm Basel Turkman
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
+
 
 ### Most-Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaselTurkman&layout=compact)
