@@ -1,8 +1,7 @@
 ## Hi there 👋
 I'm Basel Turkman
 
-![Profile views](https://komarev.com/ghpvc/?username=BaselTurkman&color=blue)
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BaselTurkman)
 
 
 ### About Me
