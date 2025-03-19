@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Basel Turkman
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BaselTurkman)
+![Profile views](https://komarev.com/ghpvc/?username=BaselTurkman&color=blue)
 
 
 ### About Me
