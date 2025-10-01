@@ -8,8 +8,8 @@ I'm **Basel Turkman**
 
 ## About Me
 
-* 🎓 **Graduated from the Front‑End Web Developer Nanodegree** (Udacity, Spark, PLWG)
-* 💻 **Front‑End Intern at Foothill Technology Solutions, LLC.**
+* 🎓 **Graduated Computer Systems Engineering from Palestine Technical University – Kadoorie** 
+* 💻 **completed Front‑End internship at Foothill Technology Solutions, LLC.**
 * 🤖 Passionate about **AI models, web applications, and problem solving**
 
 ---
